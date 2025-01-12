@@ -2,7 +2,7 @@ import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { ProductData } from "../components/retail_data";
 
 interface DataState {
-  productData: ProductData; // 
+  productData: ProductData
 }
 
 interface DataState {
