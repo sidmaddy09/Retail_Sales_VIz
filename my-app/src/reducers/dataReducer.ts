@@ -2,11 +2,11 @@ import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { ProductData } from "../components/retail_data";
 
 interface DataState {
-  productData: ProductData
+  productData: any
 }
 
 interface DataState {
-    productData: ProductData;
+    productData: any;
     loading: boolean;
     error: string | null;
 }
