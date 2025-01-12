@@ -10,7 +10,7 @@ This project visualizes retail sales data using React, Redux, and Recharts. It f
 
 This project was created to demonstrate front-end development skills using modern technologies like React, Redux, and Recharts. It addresses the following requirements:
 
-*   Comapre to a provided mockup (not included in this README but assumed to be the design guide).
+*   Comapre to a provided mockup .
 *   Data fetching from a JSON file (stubbed API call).
 *   Implementation of a line chart using Recharts.
 *   Use of React and Redux best practices and patterns.
